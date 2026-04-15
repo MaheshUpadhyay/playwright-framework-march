@@ -1,0 +1,15 @@
+{
+    "registrationPageOne": {
+        "url": "https://www.knowledgeware.in/final.html",
+        "username": "Shweta",
+        "password": "Preeti",
+        "confirmPassword": "Bhawnaa"
+    },
+    "registrationPageTwo": {
+        "url": "https://www.knowledgeware.in/reg.html",
+        "firstName": "Shweta",
+        "lastName": "Preeti",
+        "email": "shweta.preeti@knowledgeware.com",
+        "phone": "1234567890"
+    }
+}
